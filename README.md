@@ -1,5 +1,4 @@
 # Sampling
-# Sampling
 Assignment on Sampling for UCS654
 
 ## Description
